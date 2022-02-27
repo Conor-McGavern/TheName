@@ -20,13 +20,13 @@ It will also examine those Presidents who intentionally distanced themselves fro
 
 Reasons to click the link above
 
-.Dogs
-.Leaves
-.Dogs in leaves
+1. Dogs
+2. Leaves
+3. Dogs in leaves
 
 Citing your work is important! [^1]
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+
 
 # Heading One
 
@@ -34,20 +34,6 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ### Heading Three, etc.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
 
 A horizontal line break can be useful for separating content:
 
