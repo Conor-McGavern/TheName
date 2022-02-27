@@ -10,10 +10,9 @@ permalink: /essay-01.html
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+This is where I will introduce that I want to examine how Presidents inserted themselves into the lives of the average American.
+It will also examine those Presidents who intentionally distanced themselves from the average American.
 
-Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
 
