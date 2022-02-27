@@ -14,7 +14,15 @@ This is where I will introduce that I want to examine how Presidents inserted th
 It will also examine those Presidents who intentionally distanced themselves from the average American.
 
 
-Font can be *Italic* or **Bold**.
+**This be bold** *This is slanty*
+
+[This leads to dogs](https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2018/08/two-saint-bernard-puppies-sitting-in-a-pile-of-fall-leaves-1600x1055.jpg)
+
+Reasons to click the link above
+
+.Dogs
+.Leaves
+.Dogs in leaves
 
 Citing your work is important! [^1]
 
