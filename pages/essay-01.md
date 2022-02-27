@@ -6,7 +6,7 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# Personality in Politics
+# Personality in 20th Century American Politics
 
 ## Introduction
 
