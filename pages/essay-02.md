@@ -14,7 +14,7 @@ Throughout American History foreign affairs have often bleed into the policies o
 
 # A Nuclear World
 
-## The End of a Segregated Force and then Conscription
+# The End of a Segregated Force
 
 The victories African Americans brought home were tremendous. At the start of the war the military mirrored society and followed a tradition of a segregated force. By the end they had proven themselves to President Truman with the Double V campaign  to have the armed forces desegregated which was the first shout of the Civil Rights Movement. They had proven themselves to their nation and to themselves.
 	The Army had been segregated since the War of 1812. During the Revolutionary War the Continental Army had been a mixed force on rare occasions, without any de facto segregation. Black people participated on both sides of the Revolutionary Conflict. After the United States gained independence it codified segregation as the law of the land and it extended into the Army. The only American War without any African Americans participation was the Mexican-American War.  This was due to the controversy of the war expanding slavery  and the overt imperialism that came from the actions of the United States against another sovereign nation.  
@@ -40,9 +40,6 @@ This Double V Campaign would electrify the African American Community. They rais
 ### This graph represents how Presidents throughout the 20th century have talked on topics relating to terrorism, intervention, and peacekeeping operations. Notice how it spikes with President LBJ, Nixon, Carter, and Reagan
 
 Both of the graphs are talking about the same things, but in different ways. The graphs on America at War and America at Peacekeeping are talking about the same thing, military intervention. However; in domestic politics many Americans are not interested in or are outright opposed to American Intervention in foreign wars. As mentioned above, the movement to an all volunteer force helped Presidents use the military more without fear of domestic upheaval, but that did not change how Americans invisioned foreign policy. 
-
-## Conclusion
-
 
 
 ## References
