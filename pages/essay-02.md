@@ -14,9 +14,13 @@ Throughout American History foreign affairs have often bleed into the policies o
 
 # A Nuclear World
 
+        The end of World War Two came with the use of atomic weapons. These atomic weapons changed how military operations would be conducted. The idea of "mutually assured destruction" or MAD, made it so that no war could ever be won. The armed forces change policy to now prevent war.
+	
+	They would focus on preventing conflict in two veins: containment and MAD. While MAD was already mentioned above, containment was a whole new policy. Based on the "Long Telegram," the new policy to defeat communism was to stop its spread. This policy was taken because military forces could no longer fight without destroying the entire planet.
+
 # The End of a Segregated Force
 
-The victories African Americans brought home were tremendous. At the start of the war the military mirrored society and followed a tradition of a segregated force. By the end they had proven themselves to President Truman with the Double V campaign  to have the armed forces desegregated which was the first shout of the Civil Rights Movement. They had proven themselves to their nation and to themselves.
+        The victories African Americans brought home were tremendous. At the start of the war the military mirrored society and followed a tradition of a segregated force. By the end they had proven themselves to President Truman with the Double V campaign  to have the armed forces desegregated which was the first shout of the Civil Rights Movement. They had proven themselves to their nation and to themselves.
 	The Army had been segregated since the War of 1812. During the Revolutionary War the Continental Army had been a mixed force on rare occasions, without any de facto segregation. Black people participated on both sides of the Revolutionary Conflict. After the United States gained independence it codified segregation as the law of the land and it extended into the Army. The only American War without any African Americans participation was the Mexican-American War.  This was due to the controversy of the war expanding slavery  and the overt imperialism that came from the actions of the United States against another sovereign nation.  
 	The American Civil War and World War One both saw African Americans used as combat troops but under niche conditions. In the US Civil War the use of Black Soldiers was done as a propaganda method and was the exception, as the captured “contraband” of escaped slaves often served the Army in the logistical role similar to what they did in World War Two. Black Soldiers got the chance to be combat troops when they were loaned to the French Command in World War One. The French used the African American Soldiers alongside their European Soldiers due to the amount of African Soldier who made up the Colonial Forces of France.
 
