@@ -6,38 +6,26 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# Personality in 20th Century American Politics
+# Presidents and Foreign Wars
 
 ## Introduction
 
-This is where I will introduce that I want to examine how Presidents inserted themselves into the lives of the average American.
-It will also examine those Presidents who intentionally distanced themselves from the average American.
+Throughout American History foreign affairs have often bleed into the policies of domesitic policy, with war being a front on all American's minds. Wars have a make or brake effect on Presidents
 
+# A Changing World
 
-**This be bold** *This is slanty*
-
-[This leads to dogs](https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2018/08/two-saint-bernard-puppies-sitting-in-a-pile-of-fall-leaves-1600x1055.jpg)
-
-Reasons to click the link above
-
-1. Dogs
-2. Leaves
-3. Dogs in leaves
-
-{% include feature/line-chart.html data="sotu-1900-1945" topic="American Pacific Islands Authority" %}
 
 This has nothing to do with my essay. I find it very interesting though.
 Makes me think of how important this stuff could be and if I mislabled what the original intent was.
 
-Citing your work is important! [^1]
+
+# Change of Words
+
+{% include feature/line-chart.html data="sotu-1900-1945" topic="American Pacific Islands Authority" %}
 
 
 
-# Heading One
-
-## Heading Two
-
-### Heading Three, etc.
+# Heading Three, etc.
 
 
 A horizontal line break can be useful for separating content:
@@ -56,6 +44,6 @@ Include a pdf:
 
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
-## Notes
+## References
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+Some
