@@ -27,9 +27,12 @@ Throughout American History foreign affairs have often bleed into the policies o
 
 {% include feature/image.html filename="SoldiersKoreanWar.jpg" alt="An integrated squad of African and White Soldiers" link="http://www.army.mil/article/102867/Korean_War_Slideshow/" %}
 
-# Change of Words
+# Change of Words: From War and Battles to Peacekeeping Operations
 
-{% include feature/line-chart.html data="sotu-1900-1945" topic="American Pacific Islands Authority" %}
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at War" %}
+
+
+{% include feature/line-chart.html data="sotu-20th-century" topic=" America at Peacekeeping" %}
 
 
 
